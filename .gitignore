@@ -1,0 +1,48 @@
+# 데이터
+
+.ipynb_checkpoints
+0_2023빅콘테스트_231027
+
+
+가격책정/.ipynb_checkpoints
+가격책정/고객클러스터.csv
+가격책정/코로나공연clust.csv
+가격책정/코로나아닌공연clust.csv
+
+원본/
+
+전처리/.ipynb_checkpoints
+전처리/cov_data.csv
+전처리/final_data.csv
+전처리/found_seat.csv
+전처리/non_cov_data.csv
+
+좌석 시각화/.ipynb_checkpoints
+좌석 시각화/코로나아닌공연clust.csv
+좌석 시각화/final_data.csv
+좌석 시각화/seat_coor.csv
+
+좌석 찾기/.ipynb_checkpoints
+좌석 찾기/found_seat.csv
+좌석 찾기/found_seat.zip
+좌석 찾기/seat_coor.csv
+좌석 찾기/unmissing_final.csv
+
+좌표 만들기/.ipynb_checkpoints
+좌표 만들기/ConcertHallSeatingPlan_2021 (1).xls
+좌표 만들기/seat_coor.csv
+좌표 만들기/seat.csv
+
+클러스터링/.ipynb_checkpoints
+클러스터링/고객클러스터.csv
+클러스터링/코로나공연clust.csv
+클러스터링/코로나아닌공연clust.csv
+클러스터링/코로나공연clust.csv.zip
+
+휠체어석 예매 일자를 통한 예매 일자 3일 미룰지 결정/.ipynb_checkpoints
+휠체어석 예매 일자를 통한 예매 일자 3일 미룰지 결정/휠체어.csv
+휠체어석 예매 일자를 통한 예매 일자 3일 미룰지 결정/data.csv
+
+missing 찾기/.ipynb_checkpoints
+missing 찾기/seat_level.csv
+missing 찾기/unmissing_final.csv
